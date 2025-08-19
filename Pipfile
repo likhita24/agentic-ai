@@ -9,6 +9,10 @@ langchain-groq = "*"
 langchain-openai = "*"
 langchain-community = "*"
 langchain-tavily = "*"
+pydantic = "*"
+fastapi = "*"
+uvicorn = "*"
+streamlit = "*"
 
 [dev-packages]
 
